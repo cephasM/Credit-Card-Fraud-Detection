@@ -48,8 +48,15 @@ This project tackles the problem of **credit card fraud detection** using anonym
 ## 📊 Visuals Included
 
 - ROC Curve
+
+![download](https://github.com/user-attachments/assets/d8a273fd-617b-421c-804a-06728b9297ae)
+
 - PR Curve
+![download](https://github.com/user-attachments/assets/09ea78df-6b7d-4770-9bfe-aff020166a51)
+
 - Confusion Matrix
+  ![download](https://github.com/user-attachments/assets/bfec07f9-2ea2-4861-9c1c-75fce06d41f5)
+
 - Class distribution (before & after SMOTE)
 ![download](https://github.com/user-attachments/assets/9a43a7ea-d62c-47b5-971c-e2bd3edeab34)
 
